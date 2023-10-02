@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # This script loops 10 times and displays a text at each iteration.
 # Displays "bad luck" on the 4th iteration.
 # Displays "good luck" on the 8th iteration.
